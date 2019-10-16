@@ -1,0 +1,11 @@
+
+
+
+1 - ABRA A PASTA BANCO: 
+ 1.1 - EXECUTE QUERY (Criação do Banco) 
+ 1.2-	Execute QUERY (Criação das tabelas)
+ 1.3 -	 EXECUTE QUERY (Procedures)
+
+2 - ABRA A PASTA PROJETO PRONTO:
+2.1 - Abra:  Projetocd.sln
+2.3 - Realize a troca da string de conexao

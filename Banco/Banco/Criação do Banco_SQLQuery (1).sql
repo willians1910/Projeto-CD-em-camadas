@@ -1,0 +1,20 @@
+CREATE DATABASE DB_TesteSinqia ON
+
+
+(
+NAME = DB_TesteSinqia_DAT,
+FILENAME = N'D:\Projeto CD\DB_TesteSinqia.mdf',
+SIZE = 5000KB,
+MAXSIZE=UNLIMITED,
+FILEGROWTH = 1000KB 
+)
+
+LOG ON 
+(
+NAME = DB_TesteSinqia_LOG,
+FILENAME = N'D:\Projeto CD\DB_TesteSinqia_log.ldf',
+SIZE = 5000KB,
+MAXSIZE=UNLIMITED,
+FILEGROWTH = 1000KB
+);
+GO

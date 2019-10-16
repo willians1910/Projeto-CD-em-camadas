@@ -1,0 +1,38 @@
+use DB_TesteSinqia
+GO
+
+IF NOT EXISTS (SELECT ID FROM SYSOBJECTS WHERE ID = OBJECT_ID('dbo.[TB_CD]'))
+
+BEGIN
+ 
+ 
+ 
+ CREATE TABLE  TB_CD
+(
+Cd_Id INT  IDENTITY (1,1) not null,
+Nome VARCHAR  (300) UNIQUE,
+Autor VARCHAR (300),
+Data_Criacao datetime, 
+PRIMARY KEY (Cd_Id)
+
+)
+
+END
+GO
+
+
+IF NOT EXISTS (SELECT ID FROM SYSOBJECTS WHERE ID = OBJECT_ID('dbo.[TB_MUSICA]'))
+
+BEGIN
+ 
+CREATE TABLE TB_MUSICA
+(
+Musica_Id INT  IDENTITY (1,1) NOT NULL,
+Cd_IdMusica INT NOT NULL,
+Nome_Musica VARCHAR (300),
+Tempo_Segundos VARCHAR (50),
+PRIMARY KEY (Musica_Id),
+FOREIGN KEY(Cd_IdMusica) REFERENCES TB_CD(Cd_Id )
+
+);
+END

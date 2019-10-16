@@ -1,0 +1,11 @@
+C:\Users\max.goncalves\Desktop\ProjetoCD_Sinqia\ProjetoCD3Camadas\ProjetoCDBolo\Aspnet3Camadas.BLL\bin\Debug\Aspnet3Camadas.BLL.dll
+C:\Users\max.goncalves\Desktop\ProjetoCD_Sinqia\ProjetoCD3Camadas\ProjetoCDBolo\Aspnet3Camadas.BLL\bin\Debug\Aspnet3Camadas.BLL.pdb
+C:\Users\max.goncalves\Desktop\ProjetoCD_Sinqia\ProjetoCD3Camadas\ProjetoCDBolo\Aspnet3Camadas.BLL\bin\Debug\Aspnet3Camadas.DAL.dll
+C:\Users\max.goncalves\Desktop\ProjetoCD_Sinqia\ProjetoCD3Camadas\ProjetoCDBolo\Aspnet3Camadas.BLL\bin\Debug\Aspnet3Camadas.DTO.dll
+C:\Users\max.goncalves\Desktop\ProjetoCD_Sinqia\ProjetoCD3Camadas\ProjetoCDBolo\Aspnet3Camadas.BLL\bin\Debug\Aspnet3Camadas.DAL.pdb
+C:\Users\max.goncalves\Desktop\ProjetoCD_Sinqia\ProjetoCD3Camadas\ProjetoCDBolo\Aspnet3Camadas.BLL\bin\Debug\Aspnet3Camadas.DTO.pdb
+C:\Users\max.goncalves\Desktop\ProjetoCD_Sinqia\ProjetoCD3Camadas\ProjetoCDBolo\Aspnet3Camadas.BLL\obj\Debug\Aspnet3Camadas.BLL.csprojAssemblyReference.cache
+C:\Users\max.goncalves\Desktop\ProjetoCD_Sinqia\ProjetoCD3Camadas\ProjetoCDBolo\Aspnet3Camadas.BLL\obj\Debug\Aspnet3Camadas.BLL.csproj.CoreCompileInputs.cache
+C:\Users\max.goncalves\Desktop\ProjetoCD_Sinqia\ProjetoCD3Camadas\ProjetoCDBolo\Aspnet3Camadas.BLL\obj\Debug\Aspnet3Camadas.BLL.csproj.CopyComplete
+C:\Users\max.goncalves\Desktop\ProjetoCD_Sinqia\ProjetoCD3Camadas\ProjetoCDBolo\Aspnet3Camadas.BLL\obj\Debug\Aspnet3Camadas.BLL.dll
+C:\Users\max.goncalves\Desktop\ProjetoCD_Sinqia\ProjetoCD3Camadas\ProjetoCDBolo\Aspnet3Camadas.BLL\obj\Debug\Aspnet3Camadas.BLL.pdb
